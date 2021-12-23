@@ -1,0 +1,17 @@
+{
+    "name": "Oculus.AvatarSDK2.Example",
+    "references": [
+        "Oculus.AvatarSDK2",
+        "Oculus.Platform",
+        "Oculus.VR"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

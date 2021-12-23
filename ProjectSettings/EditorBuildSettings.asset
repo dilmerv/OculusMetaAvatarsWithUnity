@@ -8,9 +8,27 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/PassthroughHands.unity
     guid: c94e480e4a6da614693c0cd3372e2d2d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/UnderlayPassthroughHandsDemo.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Oculus/Avatar2/Example/Scenes/CornellBoxLightingExample/CornellBoxLightingExample.unity
+    guid: 9498d24606a8d4e4eab962e19ff08cfb
+  - enabled: 0
+    path: Assets/Oculus/Avatar2/Example/Scenes/CustomHandPoseExample/CustomHandPoseExample.unity
+    guid: d5126d6597a900c4ba11ed75b3938e33
+  - enabled: 0
+    path: Assets/Oculus/Avatar2/Example/Scenes/FBConnectLightingExample/FBConnectLightingExample.unity
+    guid: eff2058b5a617274c9cc8cbc0cd0cc28
+  - enabled: 0
+    path: Assets/Oculus/Avatar2/Example/Scenes/GazeTrackingExample/GazeTrackingExample.unity
+    guid: 71c0a112e957503448f41007b965a1fd
+  - enabled: 0
+    path: Assets/Oculus/Avatar2/Example/Scenes/MirrorScene/MirrorScene.unity
+    guid: 9f2e1693a4f24bc498477b3dfeb166aa
+  - enabled: 0
+    path: Assets/Oculus/Avatar2/Example/Scenes/NetworkLoopbackExample/NetworkLoopbackExample.unity
+    guid: 0b80808d555493f42937ca45e5970ce7
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5e59515c7e2612b42b9e14f73a37e0ac,
       type: 2}
